@@ -4,6 +4,7 @@ package edu.grinnell.csc207.util;
  * Utility class for implementing classical encryption methods like Caesar and Vigenère ciphers.
  *
  * @author Princess Alexander
+ * class: csc207
  *
  */
 public class CipherUtils {

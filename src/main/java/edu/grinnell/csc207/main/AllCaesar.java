@@ -2,6 +2,7 @@
   * Name(s)
   * @author Princess Alexander
   * @author Samuel L. Rebelsky
+  * Class: csc207
   * Assignment name (MP1)
   *
   * Date: 09/11/24

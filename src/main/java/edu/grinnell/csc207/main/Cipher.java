@@ -8,6 +8,7 @@ import edu.grinnell.csc207.util.CipherUtils;
  * Handles Caesar and Vigenère cipher operations.
  *
  * @author Princess Alexander
+ * Class: csc207
  *
  */
 public class Cipher {
