@@ -1,5 +1,5 @@
 /***********************************************************************
-  * Name(s) 
+  * Name(s)
   * @author Princess Alexander
   * @author Samuel L. Rebelsky
   * Assignment name (MP1)

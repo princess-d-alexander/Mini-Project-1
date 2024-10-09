@@ -6,9 +6,9 @@ import edu.grinnell.csc207.util.CipherUtils;
 /**
  * Main class for running cipher encoding/decoding.
  * Handles Caesar and Vigenère cipher operations.
- * 
+ *
  * @author Princess Alexander
- * 
+ *
  */
 public class Cipher {
     /**
